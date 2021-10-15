@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hooty_bop.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hooty bop0000" x="100" y="100" width="1306" height="478" frameX="0" frameY="-63" frameWidth="1313" frameHeight="541"/>
+	<SubTexture name="hooty bop0001" x="100" y="100" width="1306" height="478" frameX="0" frameY="-63" frameWidth="1313" frameHeight="541"/>
+	<SubTexture name="hooty bop0002" x="1506" y="100" width="1306" height="478" frameX="-1" frameY="-53" frameWidth="1313" frameHeight="541"/>
+	<SubTexture name="hooty bop0003" x="1506" y="100" width="1306" height="478" frameX="-1" frameY="-53" frameWidth="1313" frameHeight="541"/>
+	<SubTexture name="hooty bop0004" x="100" y="678" width="1306" height="476" frameX="-6" frameY="-14" frameWidth="1313" frameHeight="541"/>
+	<SubTexture name="hooty bop0005" x="100" y="678" width="1306" height="476" frameX="-6" frameY="-14" frameWidth="1313" frameHeight="541"/>
+	<SubTexture name="hooty bop0006" x="1506" y="678" width="1305" height="476" frameX="-8" frameY="-3" frameWidth="1313" frameHeight="541"/>
+	<SubTexture name="hooty bop0007" x="1506" y="678" width="1305" height="476" frameX="-8" frameY="-3" frameWidth="1313" frameHeight="541"/>
+	<SubTexture name="hooty bop0008" x="100" y="1254" width="1305" height="475" frameX="-8" frameY="0" frameWidth="1313" frameHeight="541"/>
+	<SubTexture name="hooty bop0009" x="100" y="1254" width="1305" height="475" frameX="-8" frameY="0" frameWidth="1313" frameHeight="541"/>
+	<SubTexture name="hooty bop0010" x="100" y="1254" width="1305" height="475" frameX="-8" frameY="0" frameWidth="1313" frameHeight="541"/>
+	<SubTexture name="hooty bop0011" x="100" y="1254" width="1305" height="475" frameX="-8" frameY="0" frameWidth="1313" frameHeight="541"/>
+	<SubTexture name="hooty bop0012" x="100" y="1254" width="1305" height="475" frameX="-8" frameY="0" frameWidth="1313" frameHeight="541"/>
+	<SubTexture name="hooty bop0013" x="100" y="1254" width="1305" height="475" frameX="-8" frameY="0" frameWidth="1313" frameHeight="541"/>
+</TextureAtlas>

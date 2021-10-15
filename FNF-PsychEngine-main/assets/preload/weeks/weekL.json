@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Realm",
+			"luz",
+			[
+				226,
+				33,
+				195
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "The Owl House",
+	"weekName": "Luz Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
